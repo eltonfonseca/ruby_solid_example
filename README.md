@@ -1,13 +1,13 @@
 # Ruby SOLID Example
 > Ruby SOLID example implementation
 
-## To setup
+## Setup
 
 ```bash
 bundle install
 ```
 
-## To run
+## Run
 
 For run without SOLID example, run:
 
